@@ -1,0 +1,87 @@
+{
+    "title": "Cícero Akiles",
+    "pagePT": {
+        "welcome": "Seja bem-vindo(a)!",
+        "menuLang": "Idioma:",
+        "themeLang": "Tema:",
+        "subtitle": "Perfil do Desenvolvedor",
+        "sections": [
+            {
+                "name": "DECLARAÇÃO PESSOAL",
+                "content1": "Estudo computação desde meados de 2009. Meus interesses incluem programação, especialmente tópicos importantes, como: código limpo, segurança, e privacidade."
+            },
+            {
+                "name": "EXPERIÊNCIA PROFISSIONAL"
+            },
+            {
+                "name": "Estagiário - Aller Soluções (Janeiro 2016 - Dezembro 2017):",
+                "content1": "- Fez-se necessário definir a arquitetura e desenvolver, do zero, um sistema de tickets, a fim de melhorar o relacionamento da empresa com sua clientela;",
+                "content2": "- A decisão de usar o C#, juntamente com a abordagem do Entity Framework para o mapeamento objeto-relacional e a adoção do padrão MVC trouxeram estabilidade ao projeto;",
+                "content3": "- Após auxiliar na especificação dos principais recursos e na definição da melhor interface para a necessidade do usuário, a parte do backend foi desenvolvida; mais tarde, o código tornou-se propriedade da empresa."
+            },
+            {
+                "name": "Trainee / Desenvolvedor Backend Jr. - Sciensa (Abril 2022 - Presente):",
+                "content1": "- O framework Quarkus (Java), juntamente com o Oracle Database e as ferramentas MuleSoft ESB fornecidas pela Salesforce, foram utilizados por seis meses consecutivos no primeiro projeto;",
+                "content2": "- Atualmente atuando em um segundo projeto, com enfoque maior em testes automatizados de aplicativo feito em React Native, usando Appium e Cucumber (adotando a metodologia BDD com especificações escritas em Gherkin, para a composição de testes em Java)."
+            },
+            {
+                "name": "FORMAÇÃO ACADÊMICA"
+            },
+            {
+                "name": "Cursos técnicos, graduações:",
+                "content1": "- Ensino Médio Técnico em Informática pela Escola Técnica Estadual da Zona Leste (ETEC-ZL) de São Paulo - (Agosto 2008 - Dezembro 2009);",
+                "content2": "- Bacharel em Sistemas de Informação (turma de 2017.2, laureado) pela Faculdade Paraíso do Ceará (FAPCE), atual Centro Universitário Paraíso (UniFAP) - (Agosto 2013 - Dezembro 2017);",
+                "content3": "- Tecnólogo em Análise e Desenvolvimento de Sistemas na Fatec Zona Leste (FATEC-ZL), incompleto - (Agosto 2020 - Agosto 2022)."
+            },
+            {
+                "name": "Bootcamps concluídos:"
+            },
+            {
+                "name": "",
+                "content1": "(Esta página foi feita com React e NextJS.)"
+            }
+        ]
+    },
+    "pageEN": {
+        "welcome": "Welcome!",
+        "menuLang": "Language:",
+        "themeLang": "Theme:",
+        "subtitle": "Dev Profile",
+        "sections": [
+            {
+                "name": "PERSONAL STATEMENT",
+                "content1": "Studying a lot about computers since 2009. Always interested in programming, and concerned with clean code, security, and privacy."
+            },
+            {
+                "name": "WORK EXPERIENCE"
+            },
+            {
+                "name": "Intern - Aller Soluções (January 2016 - December 2017):",
+                "content1": "- Defining the architecture and developing this challenging project from scratch: a ticket-based system to improve the relationship between the company and its clients;",
+                "content2": "- The decision to use C# with Entity Framework for ORM and adopt the MVC pattern brought stability to the project;",
+                "content3": "- After helping the product owner to specify the main features and the best User Experience for the platform, the backend development has started; later, the code became a property of the company."
+            },
+            {
+                "name": "Trainee / Jr. Backend Developer - Sciensa (April 2022 - Present):",
+                "content1": "- The Quarkus framework (Java), along with Oracle DB and the Mulesoft ESB tools provided by Salesforce, were used for six months straight in the first project;",
+                "content2": "- Currently working on a second project, with focus on automated software testing for a React Native app, using Appium and Cucumber (adopting BDD methodology and the specifications written in Gherkin, for making tests in Java)."
+            },
+            {
+                "name": "EDUCATION"
+            },
+            {
+                "name": "Technical and graduate degree courses:",
+                "content1": "- Computer Technician (Escola Técnica da Zona Leste (ETEC-ZL)) - (August 2008 - December 2009);",
+                "content2": "- Bachelor of Information Systems (Faculdade Paraíso do Ceará (FAPCE), now Centro Universitário Paraíso (UniFAP)) - (August 2013 - December 2017);",
+                "content3": "- Associate Degree of Systems Analysis and Development (Fatec Zona Leste (FATEC-ZL)), incomplete - (August 2020 - August 2022)."
+            },
+            {
+                "name": "Finished bootcamps:"
+            },
+            {
+                "name": "",
+                "content1": "(This page was made using React and NextJS.)"
+            }
+        ]
+    }
+}
