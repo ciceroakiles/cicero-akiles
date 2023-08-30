@@ -69,7 +69,7 @@ function AllContents({ ...props }) {
 function includeLinks(str) {
     if (str.includes("Aller")) {
         return ((<>
-            <a href="https://aller.co/">https://aller.co/</a>
+            <a href="https://www.facebook.com/AllerSolucoes/">https://aller.co/</a>
             <br /><br />
         </>));
     }
